@@ -1,1 +1,1 @@
-# Zuri Blog App With CRUD 
+# Zuri Blog App With CRUD
